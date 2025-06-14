@@ -1,2 +1,2 @@
-# react-native-BHIMESH
-A simple repository to for my React Native learning progress
+# LUXE-MARKET-APP
+A React Native dummy project featuring a luxurious products brand.
